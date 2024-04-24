@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @aslanferhat
-- 👀 I’m interested in ASP.NET, Python, PLCs, Microcontroller and LabVIEW
-- 🌱 I’m currently learning ASP.NET and Python
+- 👀 I’m interested in Webapplication-Development
